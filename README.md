@@ -55,7 +55,9 @@ Ingresar un texto caracter a caracter terminado en punto y calcular cuántas pal
 ### Consigna 9
 
 Dada una lista con números enteros, eliminar aquellos nodos cuyos consecutivos sean iguales.
+
 **Ejemplo**: 1 1 5 10 11 25 25 30 30 40 42 50 50
+
 **Respuesta**: 5 10 11 40 42
 
 ### Consigna 10
@@ -81,8 +83,10 @@ Dado N, calcular el factorial de N en forma recursiva.
 ### Consigna 15
 
 Dada una lista con números enteros, solicitar al usuario el ingreso de dos números. Luego, eliminar aquellos nodos que se encuentren entre las posiciones (índices) indicados por el usuario. Tomar como primer índice el valor 0.
+
 **Ejemplo**: 5 32 41 8 37 45 8 9 15 28
 Se ingresan 0 y 4.
+
 **Respuesta**: 45 8 9 15 28.
 
 ## Contribuciones
