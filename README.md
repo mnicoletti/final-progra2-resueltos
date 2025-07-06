@@ -11,6 +11,10 @@ En todos los finales se pide resolver las consignas con una función como mínim
 En todos los exámenes de Programación 2 se proveen los modelos de funciones que se utilizan comunmente para la creación, manipulación y recorrido de estructuras de datos.  
 Podés encontrar estos ejemplos en el directorio `ejemplos`, una función por archivo, y cada una de ellas tiene un nombre que indica su propósito.
 
+## Prompts para IA
+
+Podés encontrar una lista de prompts útiles para resolver problemas de programación en [el archivo `PROMPTS.md`](PROMPTS.md). Estos prompts están diseñados para ayudar a resolver problemas comunes y a entender mejor los conceptos de estructuras de datos y algoritmos.
+
 ## Consignas
 
 ### Consigna 1
