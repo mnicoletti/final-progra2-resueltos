@@ -89,6 +89,26 @@ Se ingresan 0 y 4.
 
 **Respuesta**: 45 8 9 15 28.
 
+### Consigna 16
+
+La cantidad de nodos internos del árbol. Es decir, aquellos que no son ni la raiz, ni los nodos hojas.
+
+### Consigna 17
+
+Dado un texto carácter a carácter, contar cuantas palabras empiezan en a y terminan en as, y mostrar dicho texto con 4 blancos de separación entre las palabras.
+
+### Consigna 18
+
+Dada una matriz de N*N elementos, determinar en forma recursiva si en la diagonal principal el producto de todos los valores es menor a 20.
+
+### Consigna 19
+
+Dada una lista de números enteros, insertar si el números es par, antes su doble y después su triple.
+
+### Consigna 20
+
+Dada una pila con números pares positivos (la carga termina en 1), mostrar la suma de todos los valores de la pila si la cantidad de datos en la pila es impar, de lo contrario, mostrar su producto.
+
 ## Contribuciones
 
 Si tenés consignas de finales que no están en este repositorio, o si tenés soluciones a consignas que faltan, por favor hacé un Pull Request o contactame para agregarlas. 
